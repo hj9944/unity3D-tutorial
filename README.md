@@ -14,7 +14,7 @@ unity相关知识总结
 
 [开发资源](https://indienova.com/sp/gameDevResource)
 
-
+[算法图解, 趣味动画](https://www.redblobgames.com/)
 
 # 书籍推荐
 
