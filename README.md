@@ -16,6 +16,8 @@ unity相关知识总结
 
 [算法图解, 趣味动画](https://www.redblobgames.com/)
 
+[ACT 战斗状态同步 帧同步分享](http://awucn.cn/?p=597)
+
 # 书籍推荐
 
 0. 数学知识
