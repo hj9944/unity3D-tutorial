@@ -20,6 +20,8 @@ unity相关知识总结
 
 [主城之路](http://www.luzexi.com/)
 
+[rider破解](https://jetbra.in/s)
+
 # 书籍推荐
 
 0. 数学知识
