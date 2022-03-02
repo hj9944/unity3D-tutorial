@@ -56,3 +56,9 @@ unity相关知识总结
   https://www.shadertoy.com/
   http://glslsandbox.com/?page=1
 
+
+
+sam 大佬的b站：https://space.bilibili.com/291230921
+sam 大佬的宝藏笔记：https://www.kdocs.cn/l/cbSqBT9pOXH5
+sam 大佬的qq 群：779640900
+
