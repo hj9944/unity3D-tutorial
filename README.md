@@ -42,6 +42,18 @@ unity相关知识总结
   shader 教程
   https://thebookofshaders.com/
 
+[c# 异步原理](https://devblogs.microsoft.com/premier-developer/dissecting-the-async-methods-in-c/)
+
+正则表达式
+
+https://docs.microsoft.com/zh-cn/dotnet/standard/base-types/regular-expression-language-quick-reference
+
+https://regex101.com/
+
+https://regexr.com/
+
+
+
 # 数学工具推荐
 
   3D数学建模
@@ -60,5 +72,11 @@ unity相关知识总结
 
 sam 大佬的b站：https://space.bilibili.com/291230921
 sam 大佬的宝藏笔记：https://www.kdocs.cn/l/cbSqBT9pOXH5
+
+hudini https://www.kdocs.cn/l/cfLWLAfVZzPH
+
 sam 大佬的qq 群：779640900
 
+梯子
+
+https://www.52jingtanhao.uk/ 
