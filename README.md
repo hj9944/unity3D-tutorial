@@ -80,3 +80,7 @@ sam 大佬的qq 群：779640900
 梯子
 
 https://www.52jingtanhao.uk/ 
+
+免费梯子
+
+https://github.com/Hackl0us/SS-Rule-Snippet
