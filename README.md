@@ -52,6 +52,8 @@ https://regex101.com/
 
 https://regexr.com/
 
+https://tool.oschina.net/uploads/apidocs/jquery/regexp.html
+
 
 
 # 数学工具推荐
