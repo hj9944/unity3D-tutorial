@@ -79,6 +79,27 @@ hudini https://www.kdocs.cn/l/cfLWLAfVZzPH
 
 sam 大佬的qq 群：779640900
 
+本周推荐
+
+1，实时焦散（推荐）
+https://alexanderameye.github.io/notes/realtime-caustics/
+
+2，实时天空盒教程第一部分（复杂天空盒，包括月亮，星星太阳，昼夜等）
+https://kelvinvanhoorn.com/2022/03/17/skybox-tutorial-part-1/
+
+3，RT GI Denoising
+https://interplayoflight.wordpress.com/2022/03/26/raytraced-global-illumination-denoising/
+
+4，Compute Shader & Mesh Shader & Geometry Shader & Tessellation Shader
+https://www.youtube.com/watch?v=HH-9nfceXFw
+https://www.youtube.com/watch?v=5Ruv2H9lkGA
+https://www.youtube.com/watch?v=OqRMNrvu6TE
+
+5，GDC2022
+https://gpuopen.com/events/gdc-2022/
+
+
+
 梯子
 
 https://www.52jingtanhao.uk/ 
