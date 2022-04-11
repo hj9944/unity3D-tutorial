@@ -107,3 +107,7 @@ https://www.52jingtanhao.uk/
 免费梯子
 
 https://github.com/Hackl0us/SS-Rule-Snippet
+
+Learn Roslyn Now 是一个探索 Microsoft 的 Roslyn 编译器 API 的博客系列
+
+https://joshvarty.com/learn-roslyn-now/
