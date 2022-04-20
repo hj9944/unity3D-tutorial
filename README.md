@@ -100,6 +100,33 @@ https://gpuopen.com/events/gdc-2022/
 
 
 
+今日分享：
+
+1，做RT要用到的综合技术（推荐）
+https://diharaw.github.io/post/adventures_in_hybrid_rendering/
+
+2，Pixel Local Storage系列（推荐）
+  a) 什么是PLS
+    https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/introducing-pixel-local-storage
+  b) 使用PLS进行高级渲染
+ https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/advanced-shading-techniques-with-pixel-local-storage
+
+3，WebGPU上做shader前缀数量计算
+https://raphlinus.github.io/gpu/2021/11/17/prefix-sum-portable.html
+
+4，NVIDIA Image Scaling SDK升级，当DLSS不可用时，提供了硬件级spatial upscaler方案
+https://www.nvidia.com/en-us/geforce/news/nvidia-image-scaler-dlss-rtx-november-2021-updates/
+
+5，使用JFA（jump flooding axis）技术做非常宽的描边（推荐）
+https://itscai.us/blog/post/jfa/
+https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9
+https://www.shadertoy.com/view/Mdy3D3
+
+6，纯GPU端带拖尾的粒子实现（系列文章，Part1需要点Writeups打开左侧栏选择章节）
+https://observablehq.com/@rreusser/strange-attractors-on-the-gpu-part-2?collection=@rreusser/writeups
+
+
+
 梯子
 
 https://www.52jingtanhao.uk/ 
