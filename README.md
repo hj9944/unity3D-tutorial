@@ -22,6 +22,10 @@ unity相关知识总结
 
 [rider破解](https://jetbra.in/s)
 
+[rider 2022破解](https://www.jiweichengzhu.com/idea/code)
+
+
+
 # 书籍推荐
 
 0. 数学知识
